@@ -43,10 +43,10 @@
 <div align="center">
 
 <a href="https://github.com/appleiphonedddd/Prompt-based-Reasoning">
-  <img alt="Prompt-based-Reasoning" src="https://github-readme-stats.vercel.app/api/pin/?username=appleiphonedddd&repo=Prompt-based-Reasoning&theme=tokyonight&hide_border=true" />
+  <img alt="Prompt-based-Reasoning" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=appleiphonedddd&repo=Prompt-based-Reasoning&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/appleiphonedddd/Visual-Token-Pruning-Benchmark">
-  <img alt="Visual-Token-Pruning-Benchmark" src="https://github-readme-stats.vercel.app/api/pin/?username=appleiphonedddd&repo=Visual-Token-Pruning-Benchmark&theme=tokyonight&hide_border=true" />
+  <img alt="Visual-Token-Pruning-Benchmark" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=appleiphonedddd&repo=Visual-Token-Pruning-Benchmark&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -55,8 +55,8 @@
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=appleiphonedddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appleiphonedddd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=appleiphonedddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=appleiphonedddd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
