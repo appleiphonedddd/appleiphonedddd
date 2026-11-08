@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm appleiphonedddd
+# 👋 Hi, I'm Egor Alekseyevich Morozov
 
 **Exploring how machines reason — across text, images, and agents.**
 
